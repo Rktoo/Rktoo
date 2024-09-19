@@ -21,7 +21,7 @@ Je suis un développeur web spécialisé dans la création de solutions élégan
 Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
 - **PhPMVC :** [Initiation au MVC en PHP avec ce projet e-commerce](https://github.com/Rktoo/phpMvC)
-- **Recipe-EveryDay :** [Full stack en javascript. ReactJs pour le front et ExpressJs pour le serveur](https://github.com/Rktoo/Recipe-EveryDay).
+- **Recipe-EveryDay :** [Projet pour découvrir de belles recettes de cuisine. On peut aussi demander une recette en tant qu'invité. ReactJs pour le front et ExpressJs pour le serveur](https://github.com/Rktoo/Recipe-EveryDay).
 - **Captive zone :** [Projet pour mesurer la vitesse de connexion, de télechargement et de téleversement d'un utilisateur. Full stack NextJs et ExpressJs](https://github.com/Rktoo/captivezone).
 
 ## 📬 Contact
