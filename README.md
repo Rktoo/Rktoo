@@ -4,7 +4,7 @@ Bienvenue sur le dépôt GitHub de Tolotra Herinjaka, développeur passionné et
 
 ## 🌟 Découvrez Mon Portfolio
 
-Pour explorer mes projets et découvrir mes réalisations, visitez mon portfolio en ligne : [tolotraherinjaka.vercel.app]([https://tolotraherinjaka.vercel.app/]).
+Pour explorer mes projets et découvrir mes réalisations, visitez mon portfolio en ligne : [tolotraherinjaka.vercel.app](https://tolotraherinjaka.vercel.app/).
 
 ## 🚀 À Propos de Moi
 
