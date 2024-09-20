@@ -13,7 +13,7 @@ Je suis un développeur web spécialisé dans la création de solutions élégan
 ### Compétences
 
 - **Développement Frontend :** React, Next.js, HTML, CSS, JavaScript
-- **Développement Backend :** Node.js, Express, PHP, C#, ASP Net Core, MySQL, SQL Server
+- **Développement Backend :** Node.js, Express, PHP, Laravel, C#, ASP Net Core, MySQL, SQL Server
 - **Outils et Technologies :** Docker, Git, GitHub, Vercel
 
 ## 📂 Projets
