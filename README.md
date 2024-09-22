@@ -36,4 +36,4 @@ Merci de visiter mon GitHub et de consulter mon portfolio. Je suis toujours ouve
 
 ---
 
-*Ce fichier README.md est généré automatiquement pour vous fournir des informations à jour sur mes projets et mon parcours professionnel. N'hésitez pas à explorer et à me contacter pour plus de détails.*
+*Ce fichier README.md est généré pour vous fournir des informations à jour sur mes projets et mon parcours professionnel. N'hésitez pas à explorer et à me contacter pour plus de détails.*
