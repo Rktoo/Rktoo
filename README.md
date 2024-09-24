@@ -1,6 +1,6 @@
 # Portfolio de Tolotra Herinjaka
 
-Bienvenue sur le dépôt GitHub de Tolotra Herinjaka, développeur passionné et innovant. Vous trouverez ici une présentation de mes projets récents, ainsi que des informations sur mes compétences et mon expertise.
+Bienvenue sur mon dépôt GitHub. Tolotra Herinjaka, développeur passionné et innovant. Vous trouverez ici une présentation de mes projets récents, ainsi que des informations sur mes compétences et mon expertise.
 
 ## 🌟 Découvrez Mon Portfolio
 
