@@ -1,4 +1,4 @@
-# Portfolio de Tolotra Herinjaka
+ et# Portfolio de Tolotra Herinjaka
 
 Bienvenue sur mon dépôt GitHub. Tolotra Herinjaka, développeur passionné et innovant. Vous trouverez ici une présentation de mes projets récents, ainsi que des informations sur mes compétences et mon expertise.
 
@@ -20,7 +20,7 @@ Je suis un développeur web spécialisé dans la création de solutions élégan
 
 Voici quelques-uns des projets sur lesquels j'ai travaillé :
 
-- **Magnific-portfolio :** [Theme wordPress pour un portfolio professionnel]([https://github.com/Rktoo/magni](https://github.com/Rktoo/Theme-Portfolio-WordPress)
+- **Magnific-portfolio :** [Theme wordPress pour un portfolio professionnel](https://github.com/Rktoo/Theme-Portfolio-WordPress)
 - **PhPMVC :** [Initiation au MVC en PHP avec ce projet e-commerce](https://github.com/Rktoo/phpMvC)
 - **RESERGO :** [Projet de réservation de service en Laravel](https://github.com/Rktoo/ReserGo)
 - **Recipe-EveryDay :** [Projet pour découvrir de belles recettes de cuisine. On peut aussi demander une recette en tant qu'invité. ReactJs pour le front et ExpressJs pour le serveur](https://github.com/Rktoo/Recipe-EveryDay).
