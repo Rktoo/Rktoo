@@ -2,9 +2,6 @@
 
 Bienvenue sur mon dépôt GitHub. Tolotra Herinjaka, développeur passionné et innovant. Vous trouverez ici une présentation de mes projets récents, ainsi que des informations sur mes compétences et mon expertise.
 
-## 🌟 Découvrez Mon Portfolio
-
-Pour explorer mes projets et découvrir mes réalisations, visitez mon portfolio en ligne : [tolotraherinjaka.vercel.app](https://tolotraherinjaka.vercel.app/).
 
 ## 🚀 À Propos de Moi
 
@@ -16,25 +13,9 @@ Je suis un développeur web spécialisé dans la création de solutions élégan
 - **Développement Backend :** Node.js, Express, PHP, Laravel, C#, ASP Net Core, MySQL, SQL Server
 - **Outils et Technologies :** WordPress, Docker, Git, GitHub, Vercel
 
-## 📂 Projets
-
-Voici quelques-uns des projets sur lesquels j'ai travaillé :
-
-- **Magnific-portfolio :** [Theme wordPress pour un portfolio professionnel](https://github.com/Rktoo/Theme-Portfolio-WordPress)
-- **PhPMVC :** [Initiation au MVC en PHP avec ce projet e-commerce](https://github.com/Rktoo/phpMvC)
-- **RESERGO :** [Projet de réservation de service en Laravel](https://github.com/Rktoo/ReserGo)
-- **Recipe-EveryDay :** [Projet pour découvrir de belles recettes de cuisine. On peut aussi demander une recette en tant qu'invité. ReactJs pour le front et ExpressJs pour le serveur](https://github.com/Rktoo/Recipe-EveryDay).
-- **Captive zone :** [Projet pour mesurer la vitesse de connexion, de télechargement et de téleversement d'un utilisateur. Full stack NextJs et ExpressJs](https://github.com/Rktoo/captivezone).
-
 ## 📬 Contact
 
 Pour toute question ou collaboration, n'hésitez pas à me contacter par email à [heryinjaka72@gmail.com](mailto:heryinjaka72@gmail.com).
-
-## 🔗 Liens Utiles
-
-- [Mon GitHub](https://github.com/Rktoo)
-
-Merci de visiter mon GitHub et de consulter mon portfolio. Je suis toujours ouvert à de nouvelles opportunités et collaborations !
 
 ---
 
