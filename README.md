@@ -10,8 +10,8 @@ Je suis un développeur web spécialisé dans la création de solutions élégan
 ### Compétences
 
 - **Développement Frontend :** React, Next.js, VueJs, HTML, CSS, JavaScript
-- **Développement Backend :** Node.js, Express, PHP, Laravel, C#, ASP Net Core, MySQL, SQL Server
-- **Outils et Technologies :** WordPress, Docker, Git, GitHub, Vercel
+- **Développement Backend :** Node.js, Express, PHP, Laravel, MySQL
+- **Outils et Technologies :** WordPress, Shopify, Strapi, Git, GitHub, Vercel
 
 ## 📬 Contact
 
